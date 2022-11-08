@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Spacing-->
+    <dimen name="spacing_empty">0dp</dimen>
+    <dimen name="spacing_xxmicro">0.5dp</dimen>
+    <dimen name="spacing_xmicro">1dp</dimen>
+    <dimen name="spacing_micro">3dp</dimen>
+    <dimen name="spacing_xsmall">5dp</dimen>
+    <dimen name="spacing_small">6dp</dimen>
+    <dimen name="spacing_standard">8dp</dimen>
+    <dimen name="spacing_medium">12dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+    <dimen name="spacing_xlarge">20dp</dimen>
+    <dimen name="spacing_xxlarge">24dp</dimen>
+    <dimen name="spacing_xxxlarge">28dp</dimen>
+    <dimen name="spacing_huge">32dp</dimen>
+    <dimen name="spacing_xhuge">40dp</dimen>
+    <dimen name="spacing_xxhuge">48dp</dimen>
+    <dimen name="spacing_xxxhuge">56dp</dimen>
+    <dimen name="spacing_xxxxhuge">64dp</dimen>
+
+    <!-- Text_size-->
+    <dimen name="font_xmicro">8sp</dimen>
+    <dimen name="font_micro">10sp</dimen>
+    <dimen name="font_xsmall">12sp</dimen>
+    <dimen name="font_small">13sp</dimen>
+    <dimen name="font_normal">14sp</dimen>
+    <dimen name="font_medium">16sp</dimen>
+    <dimen name="font_large">18sp</dimen>
+    <dimen name="font_xlarge">22sp</dimen>
+    <dimen name="font_xxlarge">24sp</dimen>
+    <dimen name="font_xxxlarge">30sp</dimen>
+    <dimen name="font_xxxxlarge">35sp</dimen>
+
+    <dimen name="width_window">150dp</dimen>
+    <dimen name="height_window">70dp</dimen>
+    <dimen name="information_card_height">150dp</dimen>
+    <dimen name="animation_size">150dp</dimen>
+    <dimen name="min_height_dialog">250dp</dimen>
+    <dimen name="min_width_dialog">350dp</dimen>
+</resources>

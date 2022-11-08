@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">BitsaApp</string>
+    <string name="closed_wing">Closed wing</string>
+    <string name="open_wing">Open wing</string>
+    <string name="open_windows">"Open windows: "</string>
+    <string name="closed_windows">"Closed windows: "</string>
+    <string name="open_right_windows">"Open right windows: "</string>
+    <string name="open_left_windows">"Open left windows: "</string>
+    <string name="congratulations">Congratulatios</string>
+    <string name="first_winner">First Winner</string>
+    <string name="second_winner">Second winner</string>
+    <string name="accept">Accept</string>
 </resources>
