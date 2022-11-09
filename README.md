@@ -19,10 +19,6 @@ I approached this application with the following knowledge in mind:
 
 ![myfile](https://github.com/SalosV/BitsaApp/blob/main/Screenshot_20221109_034858.png)
 
-## Features
-
-- Login
-
 
 ## Tech Stack
 
