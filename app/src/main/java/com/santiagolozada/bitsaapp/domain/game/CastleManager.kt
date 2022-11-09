@@ -67,7 +67,7 @@ class CastleManager @Inject constructor() {
         val listWindowsChange = conditionCastleWindows
 
         conditionCastleWindows.forEachIndexed { index, castleModel ->
-            val action = validCaseForRestPlayes(numVisitor, castleModel.idWindow)
+            val action = validCaseForRestPlayer(numVisitor, castleModel.idWindow)
 
             action?.let {
                 listWindowsChange[index].windowPosition = WindowManager.changeWindowStatus(
@@ -83,7 +83,7 @@ class CastleManager @Inject constructor() {
         return conditionCastleWindows
     }
 
-    private fun validCaseForRestPlayes(
+    private fun validCaseForRestPlayer(
         numVisitor: Int, idWindow: Int
     ): Pair<WindowPositions, WindowPositions>? {
         return if (numVisitor % 2 == 0 && idWindow % numVisitor == 0) {
